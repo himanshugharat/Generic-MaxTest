@@ -21,4 +21,13 @@ public class Maximum {
             return floatarray[2];
         }
     }
+    public String checkMaxString(String[] stringarray) {
+        if (stringarray[0].compareTo(stringarray[1]) > 0 && stringarray[0].compareTo(stringarray[2]) > 0) {
+            return stringarray[0];
+        } else if (stringarray[1].compareTo(stringarray[0]) > 0 && stringarray[1].compareTo(stringarray[2]) > 0) {
+            return stringarray[1];
+        } else {
+            return stringarray[2];
+        }
+    }
 }

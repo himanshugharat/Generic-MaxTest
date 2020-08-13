@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridglabz.MaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-13T12:24:07" hostname="DESKTOP-GL7D8LT" time="0.003">
+<testsuite name="com.bridglabz.MaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-13T12:31:43" hostname="DESKTOP-GL7D8LT" time="0.003">
   <properties/>
-  <testcase name="maximunNumber_Float_ReturnMax" classname="com.bridglabz.MaximumTest" time="0.003"/>
+  <testcase name="maximunNumber_String_ReturnMax" classname="com.bridglabz.MaximumTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
