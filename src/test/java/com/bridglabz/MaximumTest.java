@@ -28,7 +28,7 @@ public class MaximumTest {
     @Test
     public void maximumNumber_Integer_ReturnMax() {
         Maximum maximum=new Maximum(new Integer[]{1,2,3,4,5,6});
-        Comparable result= maximum.printMax(6);
+        Comparable result= maximum.printMax();
         Assert.assertEquals(6,result);
 
     }
